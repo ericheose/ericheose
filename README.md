@@ -42,7 +42,7 @@
 </p>
 <br>
 
-<h3 align="center"> About Me Boy: Light Skin Tone </h3>
+<h3 align="center"> About Me 🧑🏻‍💻</h3>
 <p align="center"> 
   A software engineer with passions in Music, Tech, Sports, and Design. <br>
   Born in Korea and moved to New Zealand at a young age. <br>
