@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome!%20&descAlignY=51&descAlign=62)
 
-## Eric Heo
+<h3 align="center"> Eric Heo </h3>
+<p align="centre">
 [![Insta Badge](https://img.shields.io/badge/eric.h01-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric.h01/)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/eric-heo-5a5989215/)
+</p>
 ---
 ## Tech
 <p align="center"> KR NZ </p>
