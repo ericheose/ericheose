@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome!%20&descAlignY=51&descAlign=62)
 
-<h5 align="center"> Eric Heo </h5>
+<h1 align="center"> Eric Heo </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/My-LinkedIn-blue"/></a>&nbsp
 <a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
 <p align="center"> KR NZ </p>
 
-<h5 align="center">🛠 Tech Stack 🛠</h5>
+<h1 align="center">🛠 Tech Stack 🛠</h1>
 <p align="center"> Tech I am familiar with: </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
