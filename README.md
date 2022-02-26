@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/My-LinkedIn-blue"/></a>&nbsp
 <a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
-
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp
 </p>
 
 
