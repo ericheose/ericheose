@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome!%20&descAlignY=51&descAlign=62)
 
-<h2 align="center"> Eric Heo </h2>
+<h3 align="center"> Eric Heo </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/My-LinkedIn-blue"/></a>&nbsp
 <a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
