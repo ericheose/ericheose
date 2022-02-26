@@ -28,6 +28,6 @@
 <br>
 <h3 align="center"> Interests </h3>
 <p align="center"> 
-<img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"/></a>&nbsp
+<a href="https://soundcloud.com/user-398016634"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp
 
 </p>
