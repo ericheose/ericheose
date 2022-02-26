@@ -40,7 +40,7 @@
 
 <h3 align="center"> About Me </h3>
 <p align="center"> 
-  A software engineer with passions in Music, Sports, and Design. 
-  Born in Korea and moved to New Zealand at a young age.
-  Fluent in both Korean and English.
-  
+  A software engineer with passions in Music, Sports, and Design. <br>
+  Born in Korea and moved to New Zealand at a young age. <br>
+  Fluent in both Korean and English. <br>
+<p>
