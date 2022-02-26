@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
 <p align="center"> KR NZ </p>
-----
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
 <p align="center">
@@ -25,5 +25,5 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
-----
+
 
