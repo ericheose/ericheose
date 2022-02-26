@@ -5,8 +5,9 @@
 <h3 align="center"> Eric Heo </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/My-LinkedIn-blue"/></a>&nbsp
- <a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
- KR NZ </p>
+<a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
+</p>
+<p align="center"> KR NZ </p>
 ----
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
