@@ -5,7 +5,7 @@
 </div> 
 
 <h3 align="center"> Eric Heo </h3>
-<p align="center"> KR NZ </p>
+<p align="center"> 🇰🇷 🇳🇿 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
 <a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
