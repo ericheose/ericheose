@@ -39,11 +39,8 @@
 <a href="https://www.youtube.com/c/SKTT1"><img src="https://img.shields.io/static/v1?style=flat-square&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>&nbsp
 <img src="https://aleen42.github.io/badges/src/illustrator.svg"/>&nbsp
 <img src="https://aleen42.github.io/badges/src/premiere.svg"/>&nbsp
-<br> </p>
-<p align="center">
-  <font size=60>
+<br>
 ⚽ 🎮 🎨 🎵 🎚️ 🎛️ 🎧
-  </font>
 </p>
 <br>
 
