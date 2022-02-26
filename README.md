@@ -4,6 +4,7 @@
 <p align="centre">
 [![Insta Badge](https://img.shields.io/badge/eric.h01-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eric.h01/)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/eric-heo-5a5989215/)
+  <img src="https://img.shields.io/badge/eric.h01-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
 ---
 ## Tech
