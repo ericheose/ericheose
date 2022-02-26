@@ -29,5 +29,5 @@
 <h3 align="center"> Interests </h3>
 <p align="center"> 
 <a href="https://soundcloud.com/user-398016634"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp
-
+<a href="https://open.spotify.com/playlist/5cZACtvvTglTAnsO2FnFvd?si=39f8d12c277747f1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>&nbsp
 </p>
