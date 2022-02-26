@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/eric-heo-5a5989215/)
 ---
 ## Tech
-<p align="center" fontSize=80>🇰🇷 🇦🇺</p>
+<p align="center"&fontSize=80>🇰🇷 🇦🇺</p>
 ----
 ### Open-source Projects
 
