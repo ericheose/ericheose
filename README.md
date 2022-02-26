@@ -40,9 +40,10 @@
 <img src="https://aleen42.github.io/badges/src/illustrator.svg"/>&nbsp
 <img src="https://aleen42.github.io/badges/src/premiere.svg"/>&nbsp
 <br> </p>
-<p align="center"&fontSize=50>
+<p align="center">
+  <font size=10>
 ⚽ 🎮 🎨 🎵 🎚️ 🎛️ 🎧
-  
+  </font>
 </p>
 <br>
 
