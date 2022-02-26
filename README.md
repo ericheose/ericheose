@@ -41,7 +41,7 @@
 <img src="https://aleen42.github.io/badges/src/premiere.svg"/>&nbsp
 <br> </p>
 <p align="center">
-  <font size=10>
+  <font size=60>
 ⚽ 🎮 🎨 🎵 🎚️ 🎛️ 🎧
   </font>
 </p>
