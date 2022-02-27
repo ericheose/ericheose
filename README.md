@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Gumauzi%237781-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
 </p>
 
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Tech I am familiar with: </p>
 <p align="center">
