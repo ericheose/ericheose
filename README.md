@@ -33,7 +33,7 @@
 <h3 align="center">👨‍💻 Interests 👨‍💻 </h3>
 <p align="center"> 
 <a href="https://soundcloud.com/user-398016634"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp
-<a href="https://open.spotify.com/playlist/5cZACtvvTglTAnsO2FnFvd?si=39f8d12c277747f1"><img src="https://img.shields.io/badge/For%20You%20Playlist-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>&nbsp
+<a href="https://open.spotify.com/playlist/5cZACtvvTglTAnsO2FnFvd?si=39f8d12c277747f1"><img src="https://img.shields.io/badge/For%20You-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>&nbsp
 <a href="https://oce.op.gg/summoners/oce/Gumauzi"><img src="https://img.shields.io/static/v1?style=flat-square&message=Riot+Games&color=D32936&logo=Riot+Games&logoColor=FFFFFF&label="/></a>&nbsp
 <a href="https://www.youtube.com/c/SKTT1"><img src="https://img.shields.io/static/v1?style=flat-square&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>&nbsp
 <img src="https://aleen42.github.io/badges/src/illustrator.svg"/>&nbsp
