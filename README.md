@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/eric-heo-5a5989215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
 <a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Gumauzi%237781-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
+<a href="https://open.spotify.com/playlist/5cZACtvvTglTAnsO2FnFvd?si=39f8d12c277747f1"><img src="https://img.shields.io/badge/For%20You-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -33,7 +34,6 @@
 <h3 align="center">👨‍💻 Interests 👨‍💻 </h3>
 <p align="center"> 
 <a href="https://soundcloud.com/user-398016634"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp
-<a href="https://open.spotify.com/playlist/5cZACtvvTglTAnsO2FnFvd?si=39f8d12c277747f1"><img src="https://img.shields.io/badge/For%20You-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>&nbsp
 <a href="https://oce.op.gg/summoners/oce/Gumauzi"><img src="https://img.shields.io/static/v1?style=flat-square&message=Riot+Games&color=D32936&logo=Riot+Games&logoColor=FFFFFF&label="/></a>&nbsp
 <a href="https://www.youtube.com/c/SKTT1"><img src="https://img.shields.io/static/v1?style=flat-square&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label="/></a>&nbsp
 <br>
