@@ -30,7 +30,7 @@
  <br>
 <img src="https://img.shields.io/static/v1?style=flat-square&message=RStudio&color=222222&logo=RStudio&logoColor=75AADB&label="/>
 </p>
-<h3 align="center">🛠 Currently in love with 🛠</h3>
+<h3 align="center">🛠 Currently doing 🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
