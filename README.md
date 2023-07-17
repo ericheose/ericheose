@@ -5,8 +5,11 @@
 </div> 
 
 <h3 align="center"> Eric Heo </h3>
+<div align="center">
+ <a href="https://ericportfolio.vercel.app/">https://ericportfolio.vercel.app/</a>&nbsp
+</div>
 <p align="center"> 🇰🇷 🇳🇿 </p>
-<a href="https://ericportfolio.vercel.app/">https://ericportfolio.vercel.app/</a>&nbsp
+
 <p align="center">
 <a href="https://www.linkedin.com/in/eric-heo-5a5989215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
 <a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
