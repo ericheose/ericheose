@@ -12,8 +12,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eric-heo-5a5989215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
-<a href="https://www.instagram.com/eric.h01/"><img src="https://img.shields.io/badge/eric.h01-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/이강인%237781-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
 <a href="https://open.spotify.com/playlist/5cZACtvvTglTAnsO2FnFvd?si=39f8d12c277747f1"><img src="https://img.shields.io/badge/For%20You-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>&nbsp
 </p>
 
