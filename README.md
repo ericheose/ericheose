@@ -31,4 +31,3 @@ You can contact me via: <a href="https://www.linkedin.com/in/eric-heo-5a5989215/
 <a href="https://open.spotify.com/playlist/3jdigyipcn6WQviXhrTGye?si=vjf9EyiSRz6qyIOrTbqhzg"><img src="https://img.shields.io/badge/My Playlist-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>
 <br>
 Tech enthusiast with interests in Music and Finance. <br>
-Born in Korea and raised in New Zealand <br>
