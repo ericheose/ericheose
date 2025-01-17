@@ -1,23 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20There!&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Welcome!%20&descAlignY=51&descAlign=62)
+<h3> Eric Heo </h3> <p> 🇰🇷 🇳🇿 </p>
+<p> 
+  <a href="https://ericportfolio.vercel.app/">https://ericportfolio.vercel.app/</a>&nbsp
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 25%" />
-</div> 
-
-<h3 align="center"> Eric Heo </h3>
-<div align="center">
- <a href="https://ericportfolio.vercel.app/">https://ericportfolio.vercel.app/</a>&nbsp
-</div>
-<p align="center"> 🇰🇷 🇳🇿 </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/eric-heo-5a5989215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
-<a href="https://open.spotify.com/playlist/3jdigyipcn6WQviXhrTGye?si=vjf9EyiSRz6qyIOrTbqhzg"><img src="https://img.shields.io/badge/My Playlist-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>&nbsp
+Hello! I am a software graduate, currently studying Masters in Data Science at The University of Auckland.
+<br>
+You can contact me via: <a href="https://www.linkedin.com/in/eric-heo-5a5989215/"> LinkedIn </a> or email: ericheose@gmail.com
 </p>
 
-<h3 align="center">🛠 My Tech Stack Experience 🛠</h3>
-<p align="center">
-<br>
+<h3 align="">My Tech Stack Experience 🛠</h3>
+<p align="">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>&nbsp 
@@ -34,26 +25,10 @@
 <img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg"/>
 <img src="https://img.shields.io/static/v1?style=flat-square&message=RStudio&color=222222&logo=RStudio&logoColor=75AADB&label="/>
 </p>
-<br>
 
-<h3 align="center">👨‍💻 Interests 👨‍💻 </h3>
-<p align="center"> 
-<a href="https://soundcloud.com/user-398016634"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>&nbsp
+<h3 align="">Interests 👨‍💻 </h3>
+<a href="https://soundcloud.com/user-398016634"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>
+<a href="https://open.spotify.com/playlist/3jdigyipcn6WQviXhrTGye?si=vjf9EyiSRz6qyIOrTbqhzg"><img src="https://img.shields.io/badge/My Playlist-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>
 <br>
-<img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>&nbsp
-<br>
-
-<img src="https://aleen42.github.io/badges/src/illustrator.svg"/>
-<img src="https://aleen42.github.io/badges/src/premiere.svg"/>
-<br>
-⚽ 🎮 🎨 🎵 🎚️ 🎛️ 🎧
-</p>
-<br>
-
-<h3 align="center">👦🏻 About Me 👦🏻</h3>
-<p align="center"> 
-  Tech enthusiast with interests in Music and Finance. <br>
-  Born in Korea and raised in New Zealand <br>
-<br>
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
-<p>
+Tech enthusiast with interests in Music and Finance. <br>
+Born in Korea and raised in New Zealand <br>
