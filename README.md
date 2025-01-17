@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eric-heo-5a5989215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
-<a href="https://open.spotify.com/playlist/5cZACtvvTglTAnsO2FnFvd?si=39f8d12c277747f1"><img src="https://img.shields.io/badge/For%20You-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>&nbsp
+<a href="https://open.spotify.com/playlist/3jdigyipcn6WQviXhrTGye?si=vjf9EyiSRz6qyIOrTbqhzg"><img src="https://img.shields.io/badge/My Playlist-1ED760?&style=flat-square&logo=spotify&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🛠 My Tech Stack Experience 🛠</h3>
@@ -27,16 +27,13 @@
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>&nbsp
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>&nbsp
-
-<img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp
  <br>
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp
+<img src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg"/>
 <img src="https://img.shields.io/static/v1?style=flat-square&message=RStudio&color=222222&logo=RStudio&logoColor=75AADB&label="/>
 </p>
-<h3 align="center">🛠 Currently doing 🛠</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <br>
 
 <h3 align="center">👨‍💻 Interests 👨‍💻 </h3>
@@ -55,9 +52,8 @@
 
 <h3 align="center">👦🏻 About Me 👦🏻</h3>
 <p align="center"> 
-  A software engineer with passions in Music, Tech, Sports, and Design. <br>
-  Born in Korea and moved to New Zealand at a young age. <br>
-  Fluent in both Korean and English. <br>
+  Tech enthusiast with interests in Music and Finance. <br>
+  Born in Korea and raised in New Zealand <br>
 <br>
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/>
 <p>
